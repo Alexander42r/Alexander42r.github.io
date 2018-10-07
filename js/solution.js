@@ -599,4 +599,3 @@ function sendMessageForm(form) {
             console.log(er);
         });
 };
-
